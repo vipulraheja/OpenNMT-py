@@ -29,8 +29,7 @@ Table of Contents
 ## Requirements
 
 Install `OpenNMT-py` from `pip`:
-```bash
-pip install OpenNMT-py
+```python -m pip install OpenNMT-py
 ```
 
 or from the sources:
